@@ -20,7 +20,7 @@ A modern and responsive React application for creating a full-fledged (mock) sho
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/canyon97/crwn-cards.git
    ```
 2. Navigate to the project directory:
    ```bash
